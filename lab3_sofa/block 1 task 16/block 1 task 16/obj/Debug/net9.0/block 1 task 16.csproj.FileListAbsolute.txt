@@ -1,0 +1,14 @@
+D:\вступ до іпз\block 1 task 16\block 1 task 16\bin\Debug\net9.0\block 1 task 16.exe
+D:\вступ до іпз\block 1 task 16\block 1 task 16\bin\Debug\net9.0\block 1 task 16.deps.json
+D:\вступ до іпз\block 1 task 16\block 1 task 16\bin\Debug\net9.0\block 1 task 16.runtimeconfig.json
+D:\вступ до іпз\block 1 task 16\block 1 task 16\bin\Debug\net9.0\block 1 task 16.dll
+D:\вступ до іпз\block 1 task 16\block 1 task 16\bin\Debug\net9.0\block 1 task 16.pdb
+D:\вступ до іпз\block 1 task 16\block 1 task 16\obj\Debug\net9.0\block 1 task 16.GeneratedMSBuildEditorConfig.editorconfig
+D:\вступ до іпз\block 1 task 16\block 1 task 16\obj\Debug\net9.0\block 1 task 16.AssemblyInfoInputs.cache
+D:\вступ до іпз\block 1 task 16\block 1 task 16\obj\Debug\net9.0\block 1 task 16.AssemblyInfo.cs
+D:\вступ до іпз\block 1 task 16\block 1 task 16\obj\Debug\net9.0\block 1 task 16.csproj.CoreCompileInputs.cache
+D:\вступ до іпз\block 1 task 16\block 1 task 16\obj\Debug\net9.0\block 1 task 16.dll
+D:\вступ до іпз\block 1 task 16\block 1 task 16\obj\Debug\net9.0\refint\block 1 task 16.dll
+D:\вступ до іпз\block 1 task 16\block 1 task 16\obj\Debug\net9.0\block 1 task 16.pdb
+D:\вступ до іпз\block 1 task 16\block 1 task 16\obj\Debug\net9.0\block 1 task 16.genruntimeconfig.cache
+D:\вступ до іпз\block 1 task 16\block 1 task 16\obj\Debug\net9.0\ref\block 1 task 16.dll

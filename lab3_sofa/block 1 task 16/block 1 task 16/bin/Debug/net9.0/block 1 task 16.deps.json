@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "block 1 task 16/1.0.0": {
+        "runtime": {
+          "block 1 task 16.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "block 1 task 16/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
