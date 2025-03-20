@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\Desktop\\lab3_sofa\\block 1 task 16\\block 1 task 16\\block 1 task 16.csproj": {}
+    "C:\\Users\\Asus\\Desktop\\Laboratorna_3\\lab3_sofa\\block 1 task 16\\block 1 task 16\\block 1 task 16.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\Desktop\\lab3_sofa\\block 1 task 16\\block 1 task 16\\block 1 task 16.csproj": {
+    "C:\\Users\\Asus\\Desktop\\Laboratorna_3\\lab3_sofa\\block 1 task 16\\block 1 task 16\\block 1 task 16.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\lab3_sofa\\block 1 task 16\\block 1 task 16\\block 1 task 16.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Laboratorna_3\\lab3_sofa\\block 1 task 16\\block 1 task 16\\block 1 task 16.csproj",
         "projectName": "block 1 task 16",
-        "projectPath": "C:\\Users\\Asus\\Desktop\\lab3_sofa\\block 1 task 16\\block 1 task 16\\block 1 task 16.csproj",
+        "projectPath": "C:\\Users\\Asus\\Desktop\\Laboratorna_3\\lab3_sofa\\block 1 task 16\\block 1 task 16\\block 1 task 16.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\Desktop\\lab3_sofa\\block 1 task 16\\block 1 task 16\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\Desktop\\Laboratorna_3\\lab3_sofa\\block 1 task 16\\block 1 task 16\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

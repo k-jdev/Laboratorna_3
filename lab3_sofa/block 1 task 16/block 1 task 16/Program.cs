@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO.Pipelines;
 //16. Вставити перед кожним парним елементом елемент із значенням 1
 
 namespace block_1_task_16
@@ -14,38 +15,62 @@ namespace block_1_task_16
             string[] input = Console.ReadLine().Split();
             int[] arr = new int[n];
 
-            int cntEven = 0;
+          
             for (int i = 0; i < n; i++)
             {
                 arr[i] = int.Parse(input[i]);
-                if (arr[i] % 2 == 0) cntEven++;
+                
             }
 
-            int[] resArr = OneBeforeEven(arr, cntEven);
+            OneBeforeEven(ref arr);
             Console.WriteLine();
             Console.WriteLine("Ваш остаточний масив має вигляд: ");
-            Output(resArr);
+            Output(arr);
 
         }
 
-        private static int[] OneBeforeEven(int[] arr, int cnt)
+        private static int[] OneBeforeEven(ref int[] arr)
         {
-            int[] arrPlusOne = new int[arr.Length + cnt];
-            int index = 0;
-
-            for (int i = 0; i < arr.Length; i++)
+            int n = arr.Length;
+            int cnt = 0;
+            for(int i = 0; i < n; i++)
             {
-                if (arr[i] % 2 != 0 )
+                if (arr[i] % 2 ==0)
                 {
-                    arrPlusOne[index++] = arr[i];
-                }
-                if (arr[i] % 2 == 0)
-                {
-                    arrPlusOne[index++] = 1;
-                    arrPlusOne[index++] = arr[i];
+                    cnt++;
                 }
             }
-            return arrPlusOne;
+
+            Array.Resize(ref arr, n + cnt);
+
+            for(int i = n - 1; i >= 0; i--)
+            {
+                if (arr[i] % 2 == 0)
+                {
+                    for(int j = arr.Length - 1; j > i +1; j--)
+                    {
+                        arr[j] = arr[j - 1];
+                    }
+
+                    arr[i + 1] = arr[i];
+                    arr[i] = 1;
+                }
+            }
+
+
+            //for (int i = 0; i < arr.Length; i++)
+            //{
+            //    if (arr[i] % 2 != 0 )
+            //    {
+            //        arrPlusOne[index++] = arr[i];
+            //    }
+            //    if (arr[i] % 2 == 0)
+            //    {
+            //        arrPlusOne[index++] = 1;
+            //        arrPlusOne[index++] = arr[i];
+            //    }
+            //}
+            return arr;
 
         }
 
