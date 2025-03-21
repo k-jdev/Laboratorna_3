@@ -1,0 +1,14 @@
+F:\Roman\VisualStudio\Lab3_DinamicArray\Chub_1Blok\bin\Debug\net9.0\Chub_1Blok.exe
+F:\Roman\VisualStudio\Lab3_DinamicArray\Chub_1Blok\bin\Debug\net9.0\Chub_1Blok.deps.json
+F:\Roman\VisualStudio\Lab3_DinamicArray\Chub_1Blok\bin\Debug\net9.0\Chub_1Blok.runtimeconfig.json
+F:\Roman\VisualStudio\Lab3_DinamicArray\Chub_1Blok\bin\Debug\net9.0\Chub_1Blok.dll
+F:\Roman\VisualStudio\Lab3_DinamicArray\Chub_1Blok\bin\Debug\net9.0\Chub_1Blok.pdb
+F:\Roman\VisualStudio\Lab3_DinamicArray\Chub_1Blok\obj\Debug\net9.0\Chub_1Blok.GeneratedMSBuildEditorConfig.editorconfig
+F:\Roman\VisualStudio\Lab3_DinamicArray\Chub_1Blok\obj\Debug\net9.0\Chub_1Blok.AssemblyInfoInputs.cache
+F:\Roman\VisualStudio\Lab3_DinamicArray\Chub_1Blok\obj\Debug\net9.0\Chub_1Blok.AssemblyInfo.cs
+F:\Roman\VisualStudio\Lab3_DinamicArray\Chub_1Blok\obj\Debug\net9.0\Chub_1Blok.csproj.CoreCompileInputs.cache
+F:\Roman\VisualStudio\Lab3_DinamicArray\Chub_1Blok\obj\Debug\net9.0\Chub_1Blok.dll
+F:\Roman\VisualStudio\Lab3_DinamicArray\Chub_1Blok\obj\Debug\net9.0\refint\Chub_1Blok.dll
+F:\Roman\VisualStudio\Lab3_DinamicArray\Chub_1Blok\obj\Debug\net9.0\Chub_1Blok.pdb
+F:\Roman\VisualStudio\Lab3_DinamicArray\Chub_1Blok\obj\Debug\net9.0\Chub_1Blok.genruntimeconfig.cache
+F:\Roman\VisualStudio\Lab3_DinamicArray\Chub_1Blok\obj\Debug\net9.0\ref\Chub_1Blok.dll
