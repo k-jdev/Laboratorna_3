@@ -1,4 +1,5 @@
 ﻿using System;
+using shulzhenko;
 using System.Threading.Tasks;
 
 class Program
@@ -99,7 +100,7 @@ class Program
             switch (choice)
             {
                 case "1":
-                    array = Task1.Run(array);
+                    array = Task16.Run(array);
                     Console.WriteLine("Масив після змін: " + string.Join(" ", array));
                     break;
                 case "2":
