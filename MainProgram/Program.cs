@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Threading.Tasks;
-
+using mukohorenko;
 class Program
 {
     static void Main()
@@ -103,7 +103,7 @@ class Program
                     Console.WriteLine("Масив після змін: " + string.Join(" ", array));
                     break;
                 case "2":
-                    array = Task2.Run(array);
+                    array = Task6.Run(array);
                     Console.WriteLine("Масив після змін: " + string.Join(" ", array));
                     break;
                 case "3":

@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Vlad\\.nuget\\packages\\": {}
+    "C:\\Users\\Eshkereshka\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vlad\\Desktop\\Laboratorna_3\\MainProgram\\MainProgram.csproj",
+      "projectUniqueName": "C:\\Users\\Eshkereshka\\Desktop\\laba 3\\MainProgram\\MainProgram.csproj",
       "projectName": "MainProgram",
-      "projectPath": "C:\\Users\\Vlad\\Desktop\\Laboratorna_3\\MainProgram\\MainProgram.csproj",
-      "packagesPath": "C:\\Users\\Vlad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vlad\\Desktop\\Laboratorna_3\\MainProgram\\obj\\",
+      "projectPath": "C:\\Users\\Eshkereshka\\Desktop\\laba 3\\MainProgram\\MainProgram.csproj",
+      "packagesPath": "C:\\Users\\Eshkereshka\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Eshkereshka\\Desktop\\laba 3\\MainProgram\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Vlad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Eshkereshka\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -66,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.405/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
