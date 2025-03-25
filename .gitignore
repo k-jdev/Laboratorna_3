@@ -1,12 +1,3 @@
 # Existing entries
 .history
 .vs
-
-# Add obj directory
-MainProgram/obj/
-obj/
-
-
-# Add obj directory
-MainProgram/obj/
-obj/
