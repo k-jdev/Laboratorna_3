@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "o8MYgr7KISo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Eshkereshka\\Desktop\\laba 3\\MainProgram\\MainProgram.csproj",
+=======
   "dgSpecHash": "//l6+J4/Jd0=",
   "success": true,
   "projectFilePath": "C:\\Users\\Roman\\OneDrive\\Робочий стіл\\Laboratorna_3\\MainProgram\\MainProgram.csproj",
+>>>>>>> dev
   "expectedPackageFiles": [],
   "logs": []
 }

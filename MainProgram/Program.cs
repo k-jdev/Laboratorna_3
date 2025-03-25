@@ -1,8 +1,12 @@
 ﻿using System;
 using chub;
 using System.Threading.Tasks;
+<<<<<<< HEAD
+using mukohorenko;
+=======
 using sobko;
 
+>>>>>>> dev
 class Program
 {
     static void Main()
@@ -105,7 +109,7 @@ class Program
                     Console.WriteLine("Масив після змін: " + string.Join(" ", array));
                     break;
                 case "2":
-                    array = Task2.Run(array);
+                    array = Task6.Run(array);
                     Console.WriteLine("Масив після змін: " + string.Join(" ", array));
                     break;
                 case "3":
