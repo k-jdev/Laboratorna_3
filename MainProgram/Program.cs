@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Threading.Tasks;
+using sobko;
 
 class Program
 {
@@ -115,7 +116,7 @@ class Program
                     Console.WriteLine("Масив після змін: " + string.Join(" ", array));
                     break;
                 case "5":
-                    array = Task5.Run(array);
+                    array = Task11.Run(array);
                     Console.WriteLine("Масив після змін: " + string.Join(" ", array));
                     break;
                 case "0":
