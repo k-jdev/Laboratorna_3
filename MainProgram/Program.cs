@@ -1,4 +1,5 @@
 ﻿using System;
+using chub;
 using System.Threading.Tasks;
 using sobko;
 
@@ -112,7 +113,7 @@ class Program
                     Console.WriteLine("Масив після змін: " + string.Join(" ", array));
                     break;
                 case "4":
-                    array = Task4.Run(array);
+                    array = Task13_sigmaAlfa228.Run(array);
                     Console.WriteLine("Масив після змін: " + string.Join(" ", array));
                     break;
                 case "5":
