@@ -3,10 +3,10 @@ namespace Rybalka
 {
     class Task14
     {
-        public static void Main()
+        public static int[] Run(int[] arr)
         {
 
-            InsertAbsAfterNegatives(ref arr);
+            return InsertAbsAfterNegatives(ref arr);
         }
 
         private static int[] InsertAbsAfterNegatives(ref int[] array)
@@ -18,8 +18,8 @@ namespace Rybalka
                     countNegatives++;
             }
 
-            if (countNegatives == 0)
-                return false;
+            //if (countNegatives == 0)
+            //    return false;
 
             int newLength = array.Length + countNegatives;
             int[] newArray = new int[newLength];
