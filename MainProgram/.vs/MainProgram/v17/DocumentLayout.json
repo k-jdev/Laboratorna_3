@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Vlad\\Desktop\\Laboratorna_3\\MainProgram\\",
+  "WorkspaceRootPath": "C:\\Users\\Vlad\\Desktop\\Laboratorna_3\\MainProgram\\",
   "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37C7661F-1E53-47B3-A2FD-C98104175CCE}|MainProgram.csproj|c:\\users\\vlad\\desktop\\laboratorna_3\\mainprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C7661F-1E53-47B3-A2FD-C98104175CCE}|MainProgram.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
     {
       "AbsoluteMoniker": "D:0:0:{37C7661F-1E53-47B3-A2FD-C98104175CCE}|MainProgram.csproj|c:\\users\\vlad\\desktop\\laboratorna_3\\mainprogram\\rybalka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37C7661F-1E53-47B3-A2FD-C98104175CCE}|MainProgram.csproj|solutionrelative:rybalka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -9,10 +14,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{37C7661F-1E53-47B3-A2FD-C98104175CCE}|MainProgram.csproj|c:\\users\\vlad\\desktop\\laboratorna_3\\mainprogram\\sobko.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37C7661F-1E53-47B3-A2FD-C98104175CCE}|MainProgram.csproj|solutionrelative:sobko.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37C7661F-1E53-47B3-A2FD-C98104175CCE}|MainProgram.csproj|c:\\users\\vlad\\desktop\\laboratorna_3\\mainprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37C7661F-1E53-47B3-A2FD-C98104175CCE}|MainProgram.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{37C7661F-1E53-47B3-A2FD-C98104175CCE}|MainProgram.csproj|c:\\users\\vlad\\desktop\\laboratorna_3\\mainprogram\\shulzhenko.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +27,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +35,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Sobko.cs",
               "DocumentMoniker": "C:\\Users\\Vlad\\Desktop\\Laboratorna_3\\MainProgram\\Sobko.cs",
               "RelativeDocumentMoniker": "Sobko.cs",
@@ -42,21 +43,19 @@
               "RelativeToolTip": "Sobko.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T20:29:34.419Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T19:20:24.117Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Rybalka.cs",
               "DocumentMoniker": "C:\\Users\\Vlad\\Desktop\\Laboratorna_3\\MainProgram\\Rybalka.cs",
               "RelativeDocumentMoniker": "Rybalka.cs",
               "ToolTip": "C:\\Users\\Vlad\\Desktop\\Laboratorna_3\\MainProgram\\Rybalka.cs",
               "RelativeToolTip": "Rybalka.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBoAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T20:29:27.018Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T19:20:19.95Z"
             },
             {
               "$type": "Document",
@@ -68,19 +67,21 @@
               "RelativeToolTip": "Shulzhenko.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T20:28:11.939Z"
+              "WhenOpened": "2025-03-25T19:19:25.839Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad\\Desktop\\Laboratorna_3\\MainProgram\\Program.cs",
               "DocumentMoniker": "C:\\Users\\Vlad\\Desktop\\Laboratorna_3\\MainProgram\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Vlad\\Desktop\\Laboratorna_3\\MainProgram\\Program.cs",
+              "ToolTip": "C:\\Users\\Vlad\\Desktop\\Laboratorna_3\\MainProgram\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAFwAAAAAAAAAAAAwwHUAAAAvAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAiwCIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T20:28:12.187Z",
+              "WhenOpened": "2025-03-25T19:19:26.074Z",
               "EditorCaption": ""
             }
           ]
