@@ -1,5 +1,9 @@
 ﻿using System;
+<<<<<<< HEAD
+using shulzhenko;
+=======
 using chub;
+>>>>>>> dev
 using System.Threading.Tasks;
 <<<<<<< HEAD
 using mukohorenko;
@@ -105,7 +109,7 @@ class Program
             switch (choice)
             {
                 case "1":
-                    array = Task1.Run(array);
+                    array = Task16.Run(array);
                     Console.WriteLine("Масив після змін: " + string.Join(" ", array));
                     break;
                 case "2":

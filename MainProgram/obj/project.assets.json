@@ -9,15 +9,27 @@
   },
   "packageFolders": {
 <<<<<<< HEAD
+    "C:\\Users\\Asus\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+=======
+<<<<<<< HEAD
     "C:\\Users\\Eshkereshka\\.nuget\\packages\\": {}
 =======
     "C:\\Users\\Roman\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
 >>>>>>> dev
+>>>>>>> dev
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
+      "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Laboratorna_3\\MainProgram\\MainProgram.csproj",
+      "projectName": "MainProgram",
+      "projectPath": "C:\\Users\\Asus\\Desktop\\Laboratorna_3\\MainProgram\\MainProgram.csproj",
+      "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Asus\\Desktop\\Laboratorna_3\\MainProgram\\obj\\",
+=======
 <<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Eshkereshka\\Desktop\\laba 3\\MainProgram\\MainProgram.csproj",
       "projectName": "MainProgram",
@@ -31,16 +43,22 @@
       "packagesPath": "C:\\Users\\Roman\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Roman\\OneDrive\\Робочий стіл\\Laboratorna_3\\MainProgram\\obj\\",
 >>>>>>> dev
+>>>>>>> dev
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
 <<<<<<< HEAD
+        "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+=======
+<<<<<<< HEAD
         "C:\\Users\\Eshkereshka\\AppData\\Roaming\\NuGet\\NuGet.Config",
 =======
         "C:\\Users\\Roman\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+>>>>>>> dev
 >>>>>>> dev
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -67,7 +85,11 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
+<<<<<<< HEAD
+      "SdkAnalysisLevel": "9.0.100"
+=======
       "SdkAnalysisLevel": "9.0.200"
+>>>>>>> dev
     },
     "frameworks": {
       "net8.0": {
@@ -89,9 +111,13 @@
           }
         },
 <<<<<<< HEAD
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+=======
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
 =======
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+>>>>>>> dev
 >>>>>>> dev
       }
     }
