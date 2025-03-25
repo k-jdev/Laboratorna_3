@@ -1,0 +1,15 @@
+C:\Users\Vlad\Desktop\Laboratorna_3\MainProgram\obj\Debug\net8.0\MainProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\Desktop\Laboratorna_3\MainProgram\obj\Debug\net8.0\MainProgram.AssemblyInfoInputs.cache
+C:\Users\Vlad\Desktop\Laboratorna_3\MainProgram\obj\Debug\net8.0\MainProgram.AssemblyInfo.cs
+C:\Users\Vlad\Desktop\Laboratorna_3\MainProgram\obj\Debug\net8.0\MainProgram.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\Laboratorna_3\MainProgram\obj\Debug\net8.0\MainProgram.sourcelink.json
+C:\Users\Vlad\Desktop\Laboratorna_3\MainProgram\bin\Debug\net8.0\MainProgram.exe
+C:\Users\Vlad\Desktop\Laboratorna_3\MainProgram\bin\Debug\net8.0\MainProgram.deps.json
+C:\Users\Vlad\Desktop\Laboratorna_3\MainProgram\bin\Debug\net8.0\MainProgram.runtimeconfig.json
+C:\Users\Vlad\Desktop\Laboratorna_3\MainProgram\bin\Debug\net8.0\MainProgram.dll
+C:\Users\Vlad\Desktop\Laboratorna_3\MainProgram\bin\Debug\net8.0\MainProgram.pdb
+C:\Users\Vlad\Desktop\Laboratorna_3\MainProgram\obj\Debug\net8.0\MainProgram.dll
+C:\Users\Vlad\Desktop\Laboratorna_3\MainProgram\obj\Debug\net8.0\refint\MainProgram.dll
+C:\Users\Vlad\Desktop\Laboratorna_3\MainProgram\obj\Debug\net8.0\MainProgram.pdb
+C:\Users\Vlad\Desktop\Laboratorna_3\MainProgram\obj\Debug\net8.0\MainProgram.genruntimeconfig.cache
+C:\Users\Vlad\Desktop\Laboratorna_3\MainProgram\obj\Debug\net8.0\ref\MainProgram.dll
