@@ -1,16 +1,11 @@
 ﻿using System;
-<<<<<<< HEAD
-using shulzhenko;
-=======
-using chub;
->>>>>>> dev
 using System.Threading.Tasks;
-<<<<<<< HEAD
+using shulzhenko;
+using chub;
+using Rybalka;
 using mukohorenko;
-=======
 using sobko;
 
->>>>>>> dev
 class Program
 {
     static void Main()
