@@ -1,10 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Vlad\\Desktop\\Laboratorna_3\\MainProgram\\",
+<<<<<<< HEAD
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\Laboratorna_3\\MainProgram\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{37C7661F-1E53-47B3-A2FD-C98104175CCE}|MainProgram.csproj|c:\\users\\vlad\\desktop\\laboratorna_3\\mainprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{37C7661F-1E53-47B3-A2FD-C98104175CCE}|MainProgram.csproj|c:\\users\\asus\\desktop\\laboratorna_3\\mainprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37C7661F-1E53-47B3-A2FD-C98104175CCE}|MainProgram.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C7661F-1E53-47B3-A2FD-C98104175CCE}|MainProgram.csproj|c:\\users\\asus\\desktop\\laboratorna_3\\mainprogram\\shulzhenko.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C7661F-1E53-47B3-A2FD-C98104175CCE}|MainProgram.csproj|solutionrelative:shulzhenko.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+<<<<<<< HEAD
+  "WorkspaceRootPath": "C:\\Users\\Eshkereshka\\Desktop\\laba 3\\MainProgram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37C7661F-1E53-47B3-A2FD-C98104175CCE}|MainProgram.csproj|c:\\users\\eshkereshka\\desktop\\laba 3\\mainprogram\\mukohorenko.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C7661F-1E53-47B3-A2FD-C98104175CCE}|MainProgram.csproj|solutionrelative:mukohorenko.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C7661F-1E53-47B3-A2FD-C98104175CCE}|MainProgram.csproj|c:\\users\\eshkereshka\\desktop\\laba 3\\mainprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+  "WorkspaceRootPath": "C:\\Users\\Roman\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Laboratorna_3\\MainProgram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37C7661F-1E53-47B3-A2FD-C98104175CCE}|MainProgram.csproj|c:\\users\\roman\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\laboratorna_3\\mainprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> dev
+      "RelativeMoniker": "D:0:0:{37C7661F-1E53-47B3-A2FD-C98104175CCE}|MainProgram.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C7661F-1E53-47B3-A2FD-C98104175CCE}|MainProgram.csproj|c:\\users\\roman\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\laboratorna_3\\mainprogram\\chub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C7661F-1E53-47B3-A2FD-C98104175CCE}|MainProgram.csproj|solutionrelative:chub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> dev
     }
   ],
   "DocumentGroupContainers": [
@@ -14,21 +41,87 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+<<<<<<< HEAD
+          "SelectedChildIndex": 0,
           "Children": [
             {
+=======
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+<<<<<<< HEAD
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shulzhenko.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Laboratorna_3\\MainProgram\\Shulzhenko.cs",
+              "RelativeDocumentMoniker": "Shulzhenko.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Laboratorna_3\\MainProgram\\Shulzhenko.cs",
+              "RelativeToolTip": "Shulzhenko.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T19:42:52.347Z",
+              "EditorCaption": ""
+=======
               "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+>>>>>>> dev
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chub.cs",
+              "DocumentMoniker": "C:\\Users\\Roman\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Laboratorna_3\\MainProgram\\Chub.cs",
+              "RelativeDocumentMoniker": "Chub.cs",
+              "ToolTip": "C:\\Users\\Roman\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Laboratorna_3\\MainProgram\\Chub.cs",
+              "RelativeToolTip": "Chub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T20:28:36.5Z",
+              "EditorCaption": ""
+            },
+            {
+>>>>>>> dev
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Mukohorenko.cs",
+              "DocumentMoniker": "C:\\Users\\Eshkereshka\\Desktop\\laba 3\\MainProgram\\Mukohorenko.cs",
+              "RelativeDocumentMoniker": "Mukohorenko.cs",
+              "ToolTip": "C:\\Users\\Eshkereshka\\Desktop\\laba 3\\MainProgram\\Mukohorenko.cs",
+              "RelativeToolTip": "Mukohorenko.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T20:01:57.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Vlad\\Desktop\\Laboratorna_3\\MainProgram\\Program.cs",
+<<<<<<< HEAD
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Laboratorna_3\\MainProgram\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Vlad\\Desktop\\Laboratorna_3\\MainProgram\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Laboratorna_3\\MainProgram\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAFkAAAAAAAAAAAAwwHAAAAAZAAAA",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowAEAAAARAAAAAAAAAA==",
+=======
+<<<<<<< HEAD
+              "DocumentMoniker": "C:\\Users\\Eshkereshka\\Desktop\\laba 3\\MainProgram\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Eshkereshka\\Desktop\\laba 3\\MainProgram\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAgwGkAAAAtAAAA",
+=======
+              "DocumentMoniker": "C:\\Users\\Roman\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Laboratorna_3\\MainProgram\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Roman\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Laboratorna_3\\MainProgram\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAgwB4AAAAAAAAAAAAAAA==",
+>>>>>>> dev
+>>>>>>> dev
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T19:16:25.763Z",
               "EditorCaption": ""

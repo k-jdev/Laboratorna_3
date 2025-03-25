@@ -1,7 +1,16 @@
 ﻿using System;
+<<<<<<< HEAD
+using shulzhenko;
+=======
+using chub;
+>>>>>>> dev
 using System.Threading.Tasks;
+<<<<<<< HEAD
+using mukohorenko;
+=======
 using sobko;
 
+>>>>>>> dev
 class Program
 {
     static void Main()
@@ -100,11 +109,11 @@ class Program
             switch (choice)
             {
                 case "1":
-                    array = Task1.Run(array);
+                    array = Task16.Run(array);
                     Console.WriteLine("Масив після змін: " + string.Join(" ", array));
                     break;
                 case "2":
-                    array = Task2.Run(array);
+                    array = Task6.Run(array);
                     Console.WriteLine("Масив після змін: " + string.Join(" ", array));
                     break;
                 case "3":
@@ -112,7 +121,7 @@ class Program
                     Console.WriteLine("Масив після змін: " + string.Join(" ", array));
                     break;
                 case "4":
-                    array = Task4.Run(array);
+                    array = Task13_sigmaAlfa228.Run(array);
                     Console.WriteLine("Масив після змін: " + string.Join(" ", array));
                     break;
                 case "5":
